@@ -1,0 +1,2089 @@
+[
+    [
+        [
+            {
+                "code": "MRJ>/",
+                "surface": "MRJ>",
+                "gloss": "LORD",
+                "morphemes": {
+                    "nme": [
+                        "",
+                        ""
+                    ],
+                    "lexeme": [
+                        "MRJ>",
+                        "MRJ>"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "",
+                    "sp": "subs",
+                    "st": "abs",
+                    "ls": "prop"
+                }
+            }
+        ],
+        [
+            {
+                "code": "!N!R<J[-",
+                "surface": "NR<J",
+                "gloss": "feed",
+                "morphemes": {
+                    "pfm": [
+                        "N",
+                        "N"
+                    ],
+                    "vbe": [
+                        "",
+                        ""
+                    ],
+                    "lexeme": [
+                        "R<J",
+                        "R<J"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "verb",
+                    "vs": "pe",
+                    "vt": "ipf",
+                    "ps": "third",
+                    "vo": "act"
+                }
+            },
+            {
+                "code": "NJ",
+                "surface": "NJ",
+                "gloss": "me",
+                "morphemes": {
+                    "lexeme": [
+                        "NJ",
+                        "NJ"
+                    ]
+                },
+                "functions": {
+                    "ps": "first",
+                    "nu": "sg",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "W-",
+                "surface": "W",
+                "gloss": "and",
+                "morphemes": {
+                    "lexeme": [
+                        "W",
+                        "W"
+                    ]
+                },
+                "functions": {
+                    "sp": "conj"
+                }
+            },
+            {
+                "code": "MDM/",
+                "surface": "MDM",
+                "gloss": "something",
+                "morphemes": {
+                    "nme": [
+                        "",
+                        ""
+                    ],
+                    "lexeme": [
+                        "MDM",
+                        "MDM"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "",
+                    "sp": "subs",
+                    "st": ""
+                }
+            }
+        ],
+        [
+            {
+                "code": "L>",
+                "surface": "L>",
+                "gloss": "not",
+                "morphemes": {
+                    "lexeme": [
+                        "L>",
+                        "L>"
+                    ]
+                },
+                "functions": {
+                    "sp": "nega"
+                }
+            }
+        ],
+        [
+            {
+                "code": "!N!XSR[:d",
+                "surface": "NXSR",
+                "gloss": "lack",
+                "morphemes": {
+                    "pfm": [
+                        "N",
+                        "N"
+                    ],
+                    "vbe": [
+                        "",
+                        ""
+                    ],
+                    "vpm": "d",
+                    "lexeme": [
+                        "XSR",
+                        "XSR"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "verb",
+                    "vs": "pa",
+                    "vt": "ipf",
+                    "ps": "third",
+                    "vo": "act"
+                }
+            }
+        ],
+        [
+            {
+                "code": "L-",
+                "surface": "L",
+                "gloss": "to",
+                "morphemes": {
+                    "lexeme": [
+                        "L",
+                        "L"
+                    ]
+                },
+                "functions": {
+                    "sp": "prep"
+                }
+            },
+            {
+                "code": "J",
+                "surface": "J",
+                "gloss": "me",
+                "morphemes": {
+                    "lexeme": [
+                        "J",
+                        "J"
+                    ]
+                },
+                "functions": {
+                    "ps": "first",
+                    "nu": "sg",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "code": "W-",
+                "surface": "W",
+                "gloss": "and",
+                "morphemes": {
+                    "lexeme": [
+                        "W",
+                        "W"
+                    ]
+                },
+                "functions": {
+                    "sp": "conj"
+                }
+            },
+            {
+                "code": "<L",
+                "surface": "<L",
+                "gloss": "upon",
+                "morphemes": {
+                    "lexeme": [
+                        "<L",
+                        "<L"
+                    ]
+                },
+                "functions": {
+                    "ls": "pcon",
+                    "sp": "prep"
+                }
+            }
+        ],
+        [
+            {
+                "code": "MRG/(J~>",
+                "surface": "MRG>",
+                "gloss": "meadow ",
+                "morphemes": {
+                    "nme": [
+                        "J",
+                        ""
+                    ],
+                    "emf": [
+                        ">",
+                        ">"
+                    ],
+                    "lexeme": [
+                        "MRG",
+                        "MRG"
+                    ]
+                },
+                "functions": {
+                    "nu": "pl",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": "emph"
+                }
+            }
+        ],
+        [
+            {
+                "code": "D-",
+                "surface": "D",
+                "gloss": "(relative)",
+                "morphemes": {
+                    "lexeme": [
+                        "D",
+                        "D"
+                    ]
+                },
+                "functions": {
+                    "ls": "pcon",
+                    "sp": "prep"
+                }
+            },
+            {
+                "code": "<WCN/~>",
+                "surface": "<WCN>",
+                "gloss": "strength",
+                "morphemes": {
+                    "nme": [
+                        "",
+                        ""
+                    ],
+                    "emf": [
+                        ">",
+                        ">"
+                    ],
+                    "lexeme": [
+                        "<WCN",
+                        "<WCN"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": "emph"
+                }
+            }
+        ],
+        [
+            {
+                "code": "!N!CRJ[-",
+                "surface": "NCRJ",
+                "gloss": "loosen",
+                "morphemes": {
+                    "pfm": [
+                        "N",
+                        "N"
+                    ],
+                    "vbe": [
+                        "",
+                        ""
+                    ],
+                    "lexeme": [
+                        "CRJ",
+                        "CRJ"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "verb",
+                    "vs": "pe",
+                    "vt": "ipf",
+                    "ps": "third",
+                    "vo": "act"
+                }
+            },
+            {
+                "code": "NJ",
+                "surface": "NJ",
+                "gloss": "me",
+                "morphemes": {
+                    "lexeme": [
+                        "NJ",
+                        "NJ"
+                    ]
+                },
+                "functions": {
+                    "ps": "first",
+                    "nu": "sg",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "W-",
+                "surface": "W",
+                "gloss": "and",
+                "morphemes": {
+                    "lexeme": [
+                        "W",
+                        "W"
+                    ]
+                },
+                "functions": {
+                    "sp": "conj"
+                }
+            },
+            {
+                "code": "<L",
+                "surface": "<L",
+                "gloss": "upon",
+                "morphemes": {
+                    "lexeme": [
+                        "<L",
+                        "<L"
+                    ]
+                },
+                "functions": {
+                    "ls": "pcon",
+                    "sp": "prep"
+                }
+            }
+        ],
+        [
+            {
+                "code": "M(J/J~>",
+                "surface": "MJ>",
+                "gloss": "water",
+                "morphemes": {
+                    "nme": [
+                        "J",
+                        "J"
+                    ],
+                    "emf": [
+                        ">",
+                        ">"
+                    ],
+                    "lexeme": [
+                        "MJ",
+                        "M"
+                    ]
+                },
+                "functions": {
+                    "nu": "pl",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": "emph"
+                }
+            }
+        ],
+        [
+            {
+                "code": "N(W&JX[/(J~>:p",
+                "surface": "NJX>",
+                "gloss": "rest",
+                "morphemes": {
+                    "vbe": [
+                        "",
+                        ""
+                    ],
+                    "nme": [
+                        "J",
+                        ""
+                    ],
+                    "emf": [
+                        ">",
+                        ">"
+                    ],
+                    "vpm": "p",
+                    "lexeme": [
+                        "NWX",
+                        "NJX"
+                    ]
+                },
+                "functions": {
+                    "nu": "pl",
+                    "gn": "m",
+                    "sp": "verb",
+                    "st": "emph",
+                    "vs": "pe",
+                    "vt": "ptc",
+                    "vo": "pas"
+                }
+            }
+        ],
+        [
+            {
+                "code": "!N!DBR[:d-",
+                "surface": "NDBR",
+                "gloss": "lead",
+                "morphemes": {
+                    "pfm": [
+                        "N",
+                        "N"
+                    ],
+                    "vbe": [
+                        "",
+                        ""
+                    ],
+                    "vpm": "d",
+                    "lexeme": [
+                        "DBR",
+                        "DBR"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "verb",
+                    "vs": "pa",
+                    "vt": "ipf",
+                    "ps": "third",
+                    "vo": "act"
+                }
+            },
+            {
+                "code": "NJ",
+                "surface": "NJ",
+                "gloss": "me",
+                "morphemes": {
+                    "lexeme": [
+                        "NJ",
+                        "NJ"
+                    ]
+                },
+                "functions": {
+                    "ps": "first",
+                    "nu": "sg",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "code": "NPC/-",
+                "surface": "NPC",
+                "gloss": "breath",
+                "morphemes": {
+                    "nme": [
+                        "",
+                        ""
+                    ],
+                    "lexeme": [
+                        "NPC",
+                        "NPC"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "f",
+                    "sp": "subs",
+                    "st": ""
+                }
+            },
+            {
+                "code": "J",
+                "surface": "J",
+                "gloss": "me",
+                "morphemes": {
+                    "lexeme": [
+                        "J",
+                        "J"
+                    ]
+                },
+                "functions": {
+                    "ps": "first",
+                    "nu": "sg",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "]>]PNJ[",
+                "surface": ">PNJ",
+                "gloss": "turn",
+                "morphemes": {
+                    "vbs": [
+                        ">",
+                        ">"
+                    ],
+                    "vbe": [
+                        "",
+                        ""
+                    ],
+                    "lexeme": [
+                        "PNJ",
+                        "PNJ"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "verb",
+                    "vs": "af",
+                    "vt": "pf",
+                    "ps": "third",
+                    "vo": "act"
+                }
+            }
+        ],
+        [
+            {
+                "code": "W-",
+                "surface": "W",
+                "gloss": "and",
+                "morphemes": {
+                    "lexeme": [
+                        "W",
+                        "W"
+                    ]
+                },
+                "functions": {
+                    "sp": "conj"
+                }
+            },
+            {
+                "code": "DBR[:d-",
+                "surface": "DBR",
+                "gloss": "lead",
+                "morphemes": {
+                    "vbe": [
+                        "",
+                        ""
+                    ],
+                    "vpm": "d",
+                    "lexeme": [
+                        "DBR",
+                        "DBR"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "verb",
+                    "vs": "pa",
+                    "vt": "pf",
+                    "ps": "third",
+                    "vo": "act"
+                }
+            },
+            {
+                "code": "NJ",
+                "surface": "NJ",
+                "gloss": "me",
+                "morphemes": {
+                    "lexeme": [
+                        "NJ",
+                        "NJ"
+                    ]
+                },
+                "functions": {
+                    "ps": "first",
+                    "nu": "sg",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "B-",
+                "surface": "B",
+                "gloss": "in",
+                "morphemes": {
+                    "lexeme": [
+                        "B",
+                        "B"
+                    ]
+                },
+                "functions": {
+                    "sp": "prep"
+                }
+            },
+            {
+                "code": "CBJL/J",
+                "surface": "CBJLJ",
+                "gloss": "path",
+                "morphemes": {
+                    "nme": [
+                        "J",
+                        "J"
+                    ],
+                    "lexeme": [
+                        "CBJL",
+                        "CBJL"
+                    ]
+                },
+                "functions": {
+                    "nu": "pl",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": "cst"
+                }
+            }
+        ],
+        [
+            {
+                "code": "QWCT/~>",
+                "surface": "QWCT>",
+                "gloss": "truth",
+                "morphemes": {
+                    "nme": [
+                        "",
+                        ""
+                    ],
+                    "emf": [
+                        ">",
+                        ">"
+                    ],
+                    "lexeme": [
+                        "QWCT",
+                        "QWCT"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": "emph"
+                }
+            }
+        ],
+        [
+            {
+                "code": "MVL",
+                "surface": "MVL",
+                "gloss": "because of",
+                "morphemes": {
+                    "lexeme": [
+                        "MVL",
+                        "MVL"
+                    ]
+                },
+                "functions": {
+                    "sp": "prep"
+                }
+            }
+        ],
+        [
+            {
+                "code": "CM/-",
+                "surface": "CM",
+                "gloss": "name",
+                "morphemes": {
+                    "nme": [
+                        "",
+                        ""
+                    ],
+                    "lexeme": [
+                        "CM",
+                        "CM"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": ""
+                }
+            },
+            {
+                "code": "K",
+                "surface": "K",
+                "gloss": "you",
+                "morphemes": {
+                    "lexeme": [
+                        "K",
+                        "K"
+                    ]
+                },
+                "functions": {
+                    "ps": "second",
+                    "nu": "sg",
+                    "gn": "m",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "code": ">P-",
+                "surface": ">P",
+                "gloss": "even",
+                "morphemes": {
+                    "lexeme": [
+                        ">P",
+                        ">P"
+                    ]
+                },
+                "functions": {
+                    "ls": "focp",
+                    "sp": "advb"
+                }
+            },
+            {
+                "code": "(>N",
+                "surface": "N",
+                "gloss": "if",
+                "morphemes": {
+                    "lexeme": [
+                        ">N",
+                        "N"
+                    ]
+                },
+                "functions": {
+                    "ls": "pint",
+                    "sp": "conj"
+                }
+            }
+        ],
+        [
+            {
+                "code": "!>!HLK[:d",
+                "surface": ">HLK",
+                "gloss": "go",
+                "morphemes": {
+                    "pfm": [
+                        ">",
+                        ">"
+                    ],
+                    "vbe": [
+                        "",
+                        ""
+                    ],
+                    "vpm": "d",
+                    "lexeme": [
+                        "HLK",
+                        "HLK"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "",
+                    "sp": "verb",
+                    "vs": "pa",
+                    "vt": "ipf",
+                    "ps": "first",
+                    "vo": "act"
+                }
+            }
+        ],
+        [
+            {
+                "code": "B-",
+                "surface": "B",
+                "gloss": "in",
+                "morphemes": {
+                    "lexeme": [
+                        "B",
+                        "B"
+                    ]
+                },
+                "functions": {
+                    "sp": "prep"
+                }
+            },
+            {
+                "code": "NXL/J",
+                "surface": "NXLJ",
+                "gloss": "torrent",
+                "morphemes": {
+                    "nme": [
+                        "J",
+                        "J"
+                    ],
+                    "lexeme": [
+                        "NXL",
+                        "NXL"
+                    ]
+                },
+                "functions": {
+                    "nu": "pl",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": "cst"
+                }
+            }
+        ],
+        [
+            {
+                "code": "VLL/J",
+                "surface": "VLLJ",
+                "gloss": "shade",
+                "morphemes": {
+                    "nme": [
+                        "J",
+                        "J"
+                    ],
+                    "lexeme": [
+                        "VLL",
+                        "VLL"
+                    ]
+                },
+                "functions": {
+                    "nu": "pl",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": "cst"
+                }
+            }
+        ],
+        [
+            {
+                "code": "MWT=/~>",
+                "surface": "MWT>",
+                "gloss": "death",
+                "morphemes": {
+                    "nme": [
+                        "",
+                        ""
+                    ],
+                    "emf": [
+                        ">",
+                        ">"
+                    ],
+                    "lexeme": [
+                        "MWT=",
+                        "MWT="
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": "emph"
+                }
+            }
+        ],
+        [
+            {
+                "code": "L>",
+                "surface": "L>",
+                "gloss": "not",
+                "morphemes": {
+                    "lexeme": [
+                        "L>",
+                        "L>"
+                    ]
+                },
+                "functions": {
+                    "sp": "nega"
+                }
+            }
+        ],
+        [
+            {
+                "code": "!>!DXL[",
+                "surface": ">DXL",
+                "gloss": "fear",
+                "morphemes": {
+                    "pfm": [
+                        ">",
+                        ">"
+                    ],
+                    "vbe": [
+                        "",
+                        ""
+                    ],
+                    "lexeme": [
+                        "DXL",
+                        "DXL"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "",
+                    "sp": "verb",
+                    "vs": "pe",
+                    "vt": "ipf",
+                    "ps": "first",
+                    "vo": "act"
+                }
+            }
+        ],
+        [
+            {
+                "code": "MN",
+                "surface": "MN",
+                "gloss": "from",
+                "morphemes": {
+                    "lexeme": [
+                        "MN",
+                        "MN"
+                    ]
+                },
+                "functions": {
+                    "sp": "prep"
+                }
+            }
+        ],
+        [
+            {
+                "code": "BJC(>/T~>",
+                "surface": "BJCT>",
+                "gloss": "bad",
+                "morphemes": {
+                    "nme": [
+                        "T",
+                        "T"
+                    ],
+                    "emf": [
+                        ">",
+                        ">"
+                    ],
+                    "lexeme": [
+                        "BJC>",
+                        "BJC"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "f",
+                    "sp": "subs",
+                    "st": "emph"
+                }
+            }
+        ],
+        [
+            {
+                "code": "MVL",
+                "surface": "MVL",
+                "gloss": "because of",
+                "morphemes": {
+                    "lexeme": [
+                        "MVL",
+                        "MVL"
+                    ]
+                },
+                "functions": {
+                    "sp": "prep"
+                }
+            }
+        ],
+        [
+            {
+                "code": "D-",
+                "surface": "D",
+                "gloss": "(relative)",
+                "morphemes": {
+                    "lexeme": [
+                        "D",
+                        "D"
+                    ]
+                },
+                "functions": {
+                    "ls": "pcon",
+                    "sp": "prep"
+                }
+            },
+            {
+                "code": ">NT",
+                "surface": ">NT",
+                "gloss": "you",
+                "morphemes": {
+                    "lexeme": [
+                        ">NT",
+                        ">NT"
+                    ]
+                },
+                "functions": {
+                    "ps": "second",
+                    "nu": "sg",
+                    "gn": "m",
+                    "ls": "pers",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "<M-",
+                "surface": "<M",
+                "gloss": "with",
+                "morphemes": {
+                    "lexeme": [
+                        "<M",
+                        "<M"
+                    ]
+                },
+                "functions": {
+                    "sp": "prep"
+                }
+            },
+            {
+                "code": "J",
+                "surface": "J",
+                "gloss": "me",
+                "morphemes": {
+                    "lexeme": [
+                        "J",
+                        "J"
+                    ]
+                },
+                "functions": {
+                    "ps": "first",
+                    "nu": "sg",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "CBV/-",
+                "surface": "CBV",
+                "gloss": "rod",
+                "morphemes": {
+                    "nme": [
+                        "",
+                        ""
+                    ],
+                    "lexeme": [
+                        "CBV",
+                        "CBV"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": ""
+                }
+            },
+            {
+                "code": "K",
+                "surface": "K",
+                "gloss": "you",
+                "morphemes": {
+                    "lexeme": [
+                        "K",
+                        "K"
+                    ]
+                },
+                "functions": {
+                    "ps": "second",
+                    "nu": "sg",
+                    "gn": "m",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "W-",
+                "surface": "W",
+                "gloss": "and",
+                "morphemes": {
+                    "lexeme": [
+                        "W",
+                        "W"
+                    ]
+                },
+                "functions": {
+                    "sp": "conj"
+                }
+            },
+            {
+                "code": "XWVR/-",
+                "surface": "XWVR",
+                "gloss": "staff",
+                "morphemes": {
+                    "nme": [
+                        "",
+                        ""
+                    ],
+                    "lexeme": [
+                        "XWVR",
+                        "XWVR"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": ""
+                }
+            },
+            {
+                "code": "K",
+                "surface": "K",
+                "gloss": "you",
+                "morphemes": {
+                    "lexeme": [
+                        "K",
+                        "K"
+                    ]
+                },
+                "functions": {
+                    "ps": "second",
+                    "nu": "sg",
+                    "gn": "m",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "HNWN",
+                "surface": "HNWN",
+                "gloss": "they",
+                "morphemes": {
+                    "lexeme": [
+                        "HNWN",
+                        "HNWN"
+                    ]
+                },
+                "functions": {
+                    "ps": "third",
+                    "nu": "pl",
+                    "gn": "m",
+                    "ls": "pers",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "BJ>[W:d-",
+                "surface": "BJ>W",
+                "gloss": "console",
+                "morphemes": {
+                    "vbe": [
+                        "W",
+                        "W"
+                    ],
+                    "vpm": "d",
+                    "lexeme": [
+                        "BJ>",
+                        "BJ>"
+                    ]
+                },
+                "functions": {
+                    "nu": "pl",
+                    "gn": "m",
+                    "sp": "verb",
+                    "vs": "pa",
+                    "vt": "pf",
+                    "ps": "third",
+                    "vo": "act"
+                }
+            },
+            {
+                "code": "NJ",
+                "surface": "NJ",
+                "gloss": "me",
+                "morphemes": {
+                    "lexeme": [
+                        "NJ",
+                        "NJ"
+                    ]
+                },
+                "functions": {
+                    "ps": "first",
+                    "nu": "sg",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "code": "SDR=[T=",
+                "surface": "SDRT",
+                "gloss": "arrange",
+                "morphemes": {
+                    "vbe": [
+                        "T=",
+                        "T="
+                    ],
+                    "lexeme": [
+                        "SDR=",
+                        "SDR="
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "verb",
+                    "vs": "pe",
+                    "vt": "pf",
+                    "ps": "second",
+                    "vo": "act"
+                }
+            }
+        ],
+        [
+            {
+                "code": "QDM/J-",
+                "surface": "QDMJ",
+                "gloss": "before",
+                "morphemes": {
+                    "nme": [
+                        "J",
+                        "J"
+                    ],
+                    "lexeme": [
+                        "QDM",
+                        "QDM"
+                    ]
+                },
+                "functions": {
+                    "nu": "pl",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": "cst",
+                    "ls": "ppre"
+                }
+            },
+            {
+                "code": "(J",
+                "surface": "-",
+                "gloss": "me",
+                "morphemes": {
+                    "lexeme": [
+                        "J",
+                        ""
+                    ]
+                },
+                "functions": {
+                    "ps": "first",
+                    "nu": "sg",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "PTWR/(J~>",
+                "surface": "PTWR>",
+                "gloss": "table",
+                "morphemes": {
+                    "nme": [
+                        "J",
+                        ""
+                    ],
+                    "emf": [
+                        ">",
+                        ">"
+                    ],
+                    "lexeme": [
+                        "PTWR",
+                        "PTWR"
+                    ]
+                },
+                "functions": {
+                    "nu": "pl",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": "emph"
+                }
+            }
+        ],
+        [
+            {
+                "code": "LWQBL",
+                "surface": "LWQBL",
+                "gloss": "opposite",
+                "morphemes": {
+                    "lexeme": [
+                        "LWQBL",
+                        "LWQBL"
+                    ]
+                },
+                "functions": {
+                    "sp": "prep"
+                }
+            }
+        ],
+        [
+            {
+                "code": "B<LDBB/J-",
+                "surface": "B<LDBBJ",
+                "gloss": "adversary",
+                "morphemes": {
+                    "nme": [
+                        "J",
+                        "J"
+                    ],
+                    "lexeme": [
+                        "B<LDBB",
+                        "B<LDBB"
+                    ]
+                },
+                "functions": {
+                    "nu": "pl",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": "cst"
+                }
+            },
+            {
+                "code": "(J",
+                "surface": "-",
+                "gloss": "me",
+                "morphemes": {
+                    "lexeme": [
+                        "J",
+                        ""
+                    ]
+                },
+                "functions": {
+                    "ps": "first",
+                    "nu": "sg",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "]>]DHN[T=",
+                "surface": ">DHNT",
+                "gloss": "grow fat",
+                "morphemes": {
+                    "vbs": [
+                        ">",
+                        ">"
+                    ],
+                    "vbe": [
+                        "T=",
+                        "T="
+                    ],
+                    "lexeme": [
+                        "DHN",
+                        "DHN"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "verb",
+                    "vs": "af",
+                    "vt": "pf",
+                    "ps": "second",
+                    "vo": "act"
+                }
+            }
+        ],
+        [
+            {
+                "code": "RJC/-",
+                "surface": "RJC",
+                "gloss": "head",
+                "morphemes": {
+                    "nme": [
+                        "",
+                        ""
+                    ],
+                    "lexeme": [
+                        "RJC",
+                        "RJC"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": ""
+                }
+            },
+            {
+                "code": "J",
+                "surface": "J",
+                "gloss": "me",
+                "morphemes": {
+                    "lexeme": [
+                        "J",
+                        "J"
+                    ]
+                },
+                "functions": {
+                    "ps": "first",
+                    "nu": "sg",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "B-",
+                "surface": "B",
+                "gloss": "in",
+                "morphemes": {
+                    "lexeme": [
+                        "B",
+                        "B"
+                    ]
+                },
+                "functions": {
+                    "sp": "prep"
+                }
+            },
+            {
+                "code": "MCX/~>",
+                "surface": "MCX>",
+                "gloss": "ointment",
+                "morphemes": {
+                    "nme": [
+                        "",
+                        ""
+                    ],
+                    "emf": [
+                        ">",
+                        ">"
+                    ],
+                    "lexeme": [
+                        "MCX",
+                        "MCX"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": "emph"
+                }
+            }
+        ],
+        [
+            {
+                "code": "W-",
+                "surface": "W",
+                "gloss": "and",
+                "morphemes": {
+                    "lexeme": [
+                        "W",
+                        "W"
+                    ]
+                },
+                "functions": {
+                    "sp": "conj"
+                }
+            },
+            {
+                "code": "KS/-",
+                "surface": "KS",
+                "gloss": "cup",
+                "morphemes": {
+                    "nme": [
+                        "",
+                        ""
+                    ],
+                    "lexeme": [
+                        "KS",
+                        "KS"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": ""
+                }
+            },
+            {
+                "code": "J",
+                "surface": "J",
+                "gloss": "me",
+                "morphemes": {
+                    "lexeme": [
+                        "J",
+                        "J"
+                    ]
+                },
+                "functions": {
+                    "ps": "first",
+                    "nu": "sg",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "!M!](>]RW(J&>[/",
+                "surface": "MRW>",
+                "gloss": "become drunken",
+                "morphemes": {
+                    "pfm": [
+                        "M",
+                        "M"
+                    ],
+                    "vbs": [
+                        ">",
+                        ""
+                    ],
+                    "vbe": [
+                        "",
+                        ""
+                    ],
+                    "nme": [
+                        "",
+                        ""
+                    ],
+                    "lexeme": [
+                        "RWJ",
+                        "RW>"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "",
+                    "sp": "verb",
+                    "st": "",
+                    "vs": "af",
+                    "vt": "ptc",
+                    "vo": "act"
+                }
+            }
+        ],
+        [
+            {
+                "code": ">JK",
+                "surface": ">JK",
+                "gloss": "as",
+                "morphemes": {
+                    "lexeme": [
+                        ">JK",
+                        ">JK"
+                    ]
+                },
+                "functions": {
+                    "ls": "pcon",
+                    "sp": "prep"
+                }
+            }
+        ],
+        [
+            {
+                "code": "XJ=/~>",
+                "surface": "XJ>",
+                "gloss": "alive",
+                "morphemes": {
+                    "nme": [
+                        "",
+                        ""
+                    ],
+                    "emf": [
+                        ">",
+                        ">"
+                    ],
+                    "lexeme": [
+                        "XJ=",
+                        "XJ="
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "",
+                    "sp": "adjv",
+                    "st": "emph"
+                }
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "code": "VJBW/T-",
+                "surface": "VJBWT",
+                "gloss": "goodness",
+                "morphemes": {
+                    "nme": [
+                        "T",
+                        "T"
+                    ],
+                    "lexeme": [
+                        "VJBW",
+                        "VJBW"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "f",
+                    "sp": "subs",
+                    "st": "cst"
+                }
+            },
+            {
+                "code": "K",
+                "surface": "K",
+                "gloss": "you",
+                "morphemes": {
+                    "lexeme": [
+                        "K",
+                        "K"
+                    ]
+                },
+                "functions": {
+                    "ps": "second",
+                    "nu": "sg",
+                    "gn": "m",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "W-",
+                "surface": "W",
+                "gloss": "and",
+                "morphemes": {
+                    "lexeme": [
+                        "W",
+                        "W"
+                    ]
+                },
+                "functions": {
+                    "sp": "conj"
+                }
+            },
+            {
+                "code": "RXM=/J-",
+                "surface": "RXMJ",
+                "gloss": "womb",
+                "morphemes": {
+                    "nme": [
+                        "J",
+                        "J"
+                    ],
+                    "lexeme": [
+                        "RXM=",
+                        "RXM="
+                    ]
+                },
+                "functions": {
+                    "nu": "pl",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": "cst"
+                }
+            },
+            {
+                "code": "K",
+                "surface": "K",
+                "gloss": "you",
+                "morphemes": {
+                    "lexeme": [
+                        "K",
+                        "K"
+                    ]
+                },
+                "functions": {
+                    "ps": "second",
+                    "nu": "sg",
+                    "gn": "m",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "RDP[W-",
+                "surface": "RDPW",
+                "gloss": "urge on",
+                "morphemes": {
+                    "vbe": [
+                        "W",
+                        "W"
+                    ],
+                    "lexeme": [
+                        "RDP",
+                        "RDP"
+                    ]
+                },
+                "functions": {
+                    "nu": "pl",
+                    "gn": "m",
+                    "sp": "verb",
+                    "vs": "pe",
+                    "vt": "pf",
+                    "ps": "third",
+                    "vo": "act"
+                }
+            },
+            {
+                "code": "NJ",
+                "surface": "NJ",
+                "gloss": "me",
+                "morphemes": {
+                    "lexeme": [
+                        "NJ",
+                        "NJ"
+                    ]
+                },
+                "functions": {
+                    "ps": "first",
+                    "nu": "sg",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "KL/-",
+                "surface": "KL",
+                "gloss": "whole",
+                "morphemes": {
+                    "nme": [
+                        "",
+                        ""
+                    ],
+                    "lexeme": [
+                        "KL",
+                        "KL"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "",
+                    "sp": "subs",
+                    "st": ""
+                }
+            },
+            {
+                "code": "HWN",
+                "surface": "HWN",
+                "gloss": "them",
+                "morphemes": {
+                    "lexeme": [
+                        "HWN",
+                        "HWN"
+                    ]
+                },
+                "functions": {
+                    "ps": "third",
+                    "nu": "pl",
+                    "gn": "m",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "JWM/T=~>",
+                "surface": "JWMT>",
+                "gloss": "day",
+                "morphemes": {
+                    "nme": [
+                        "T=",
+                        "T="
+                    ],
+                    "emf": [
+                        ">",
+                        ">"
+                    ],
+                    "lexeme": [
+                        "JWM",
+                        "JWM"
+                    ]
+                },
+                "functions": {
+                    "nu": "pl",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": "emph"
+                }
+            }
+        ],
+        [
+            {
+                "code": "D-",
+                "surface": "D",
+                "gloss": "(relative)",
+                "morphemes": {
+                    "lexeme": [
+                        "D",
+                        "D"
+                    ]
+                },
+                "functions": {
+                    "ls": "pcon",
+                    "sp": "prep"
+                }
+            },
+            {
+                "code": "XJ/J-",
+                "surface": "XJJ",
+                "gloss": "life",
+                "morphemes": {
+                    "nme": [
+                        "J",
+                        "J"
+                    ],
+                    "lexeme": [
+                        "XJ",
+                        "XJ"
+                    ]
+                },
+                "functions": {
+                    "nu": "pl",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": "cst"
+                }
+            },
+            {
+                "code": "(J",
+                "surface": "-",
+                "gloss": "me",
+                "morphemes": {
+                    "lexeme": [
+                        "J",
+                        ""
+                    ]
+                },
+                "functions": {
+                    "ps": "first",
+                    "nu": "sg",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "D-",
+                "surface": "D",
+                "gloss": "(relative)",
+                "morphemes": {
+                    "lexeme": [
+                        "D",
+                        "D"
+                    ]
+                },
+                "functions": {
+                    "ls": "pcon",
+                    "sp": "prep"
+                }
+            },
+            {
+                "code": "!>!<MR[",
+                "surface": "><MR",
+                "gloss": "dwell",
+                "morphemes": {
+                    "pfm": [
+                        ">",
+                        ">"
+                    ],
+                    "vbe": [
+                        "",
+                        ""
+                    ],
+                    "lexeme": [
+                        "<MR",
+                        "<MR"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "",
+                    "sp": "verb",
+                    "vs": "pe",
+                    "vt": "ipf",
+                    "ps": "first",
+                    "vo": "act"
+                }
+            }
+        ],
+        [
+            {
+                "code": "B-",
+                "surface": "B",
+                "gloss": "in",
+                "morphemes": {
+                    "lexeme": [
+                        "B",
+                        "B"
+                    ]
+                },
+                "functions": {
+                    "sp": "prep"
+                }
+            },
+            {
+                "code": "BJT/-",
+                "surface": "BJT",
+                "gloss": "house",
+                "morphemes": {
+                    "nme": [
+                        "",
+                        ""
+                    ],
+                    "lexeme": [
+                        "BJT",
+                        "BJT"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": ""
+                }
+            },
+            {
+                "code": "H",
+                "surface": "H",
+                "gloss": "him",
+                "morphemes": {
+                    "lexeme": [
+                        "H",
+                        "H"
+                    ]
+                },
+                "functions": {
+                    "ps": "third",
+                    "nu": "sg",
+                    "gn": "m",
+                    "ls": "sffx",
+                    "sp": "pron"
+                }
+            }
+        ],
+        [
+            {
+                "code": "D-",
+                "surface": "D",
+                "gloss": "(relative)",
+                "morphemes": {
+                    "lexeme": [
+                        "D",
+                        "D"
+                    ]
+                },
+                "functions": {
+                    "ls": "pcon",
+                    "sp": "prep"
+                }
+            },
+            {
+                "code": "MRJ>/",
+                "surface": "MRJ>",
+                "gloss": "LORD",
+                "morphemes": {
+                    "nme": [
+                        "",
+                        ""
+                    ],
+                    "lexeme": [
+                        "MRJ>",
+                        "MRJ>"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "",
+                    "sp": "subs",
+                    "st": "abs",
+                    "ls": "prop"
+                }
+            }
+        ],
+        [
+            {
+                "code": "NWGR/~>",
+                "surface": "NWGR>",
+                "gloss": "length",
+                "morphemes": {
+                    "nme": [
+                        "",
+                        ""
+                    ],
+                    "emf": [
+                        ">",
+                        ">"
+                    ],
+                    "lexeme": [
+                        "NWGR",
+                        "NWGR"
+                    ]
+                },
+                "functions": {
+                    "nu": "sg",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": "emph"
+                }
+            }
+        ],
+        [
+            {
+                "code": "D-",
+                "surface": "D",
+                "gloss": "(relative)",
+                "morphemes": {
+                    "lexeme": [
+                        "D",
+                        "D"
+                    ]
+                },
+                "functions": {
+                    "ls": "pcon",
+                    "sp": "prep"
+                }
+            },
+            {
+                "code": "JWM/T=~>",
+                "surface": "JWMT>",
+                "gloss": "day",
+                "morphemes": {
+                    "nme": [
+                        "T=",
+                        "T="
+                    ],
+                    "emf": [
+                        ">",
+                        ">"
+                    ],
+                    "lexeme": [
+                        "JWM",
+                        "JWM"
+                    ]
+                },
+                "functions": {
+                    "nu": "pl",
+                    "gn": "m",
+                    "sp": "subs",
+                    "st": "emph"
+                }
+            }
+        ]
+    ]
+]
